@@ -10,3 +10,4 @@ All the known big skids in the com
 * funkemunky - Shit anti-cheats built off one another.
 * DaddyDombo - Buys code, renames it, and claims it as his own.
 * NotAccursed - Dishes out money for code and tries to re-sell it.
+* Asuka - Stole like $14,000 worth of code from someone and claimed it as his own code.
