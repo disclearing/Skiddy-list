@@ -13,5 +13,6 @@ All the known big skids in the com
 * Asuka - Stole like $14,000 worth of code from someone and claimed it as his own code.
 * ItsNature - Skidded Verus & AntiGamingChair to make "Fallback" LOL![image](https://github.com/disclearing/Skiddy-list/assets/61942923/81e6ecfb-15d5-45bf-bf8f-abc7bfc4c56f)
 * Sedge - Skidded Topu's HydrogenAPI and claimed it was FrozenOrb's and then tried to sell it.
-* Spoony - Skidded fucking essentials, array abd couldn't figure out how to setup mongo
+* Spoony - Skidded fucking essentials, array and couldn't figure out how to setup mongo
+* SIPHON11 - Major skid, never wrote a single line of code in his life and sells an $130 anticheat that can't even detect 3.01 
 * EliteAres - Major skid claims because god made code we are all skids no you just sit and watch my github for uploads - also skidded frost
