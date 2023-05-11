@@ -6,3 +6,4 @@ All the known big skids in the com
  major L
 * ScoreboardAPI - well his skidded code is already on my git so that says it all scammed the man in teamspeak muted hit the lick on this monkey hide your glock white boy you ain't doing shit
 * Adam Lynch/Washur - Skidded minexd/hcrealms/ whatever you can think of he has done it the little retard we would all slip his sister the cock
+* Kaiting - Asking zion how to setup a botnet when its linux and I was on windows
