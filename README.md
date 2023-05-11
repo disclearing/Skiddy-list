@@ -12,3 +12,4 @@ All the known big skids in the com
 * NotAccursed - Dishes out money for code and tries to re-sell it.
 * Asuka - Stole like $14,000 worth of code from someone and claimed it as his own code.
 * ItsNature - Skidded Verus & AntiGamingChair to make "Fallback" LOL
+* Sedge - Skidded Topu's HydrogenAPI and claimed it was FrozenOrb's and then tried to sell it.
