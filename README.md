@@ -7,3 +7,6 @@ All the known big skids in the com
 * ScoreboardAPI - well his skidded code is already on my git so that says it all scammed the man in teamspeak muted hit the lick on this monkey hide your glock white boy you ain't doing shit
 * Adam Lynch/Washur - Skidded minexd/hcrealms/ whatever you can think of he has done it the little retard we would all slip his sister the cock
 * Kaiting - Asking zion how to setup a botnet when its linux and I was on windows
+* funkemunky - Shit anti-cheats built off one another.
+* DaddyDombo - Buys code, renames it, and claims it as his own.
+* NotAccursed - Dishes out money for code and tries to re-sell it.
