@@ -5,7 +5,8 @@ All the known big skids in the com
 * C0an - Claimed to have made the cb 1.8 but in the same msgs says he never said that ![image](https://github.com/disclearing/Skiddy-list/assets/46827438/6161ed49-bcab-4dce-a1d0-e6e322b24e88)
  major L
 * ScoreboardAPI - well his skidded code is already on my git so that says it all scammed the man in teamspeak muted hit the lick on this monkey hide your glock white boy you ain't doing shit
-* Adam Lynch/Washur - Skidded minexd/hcrealms/ whatever you can think of he has done it the little retard we would all slip his sister the cock
+* Adam Lynch/Washur - Skidded minexd/hcrealms/ whatever you can think of he has done it the little retard we would all slip his sister the cock ![image](https://github.com/disclearing/Skiddy-list/assets/46827438/e8ad9288-44db-4a93-9a5e-74eac98123c6)
+
 * Kaiting - Asking zion how to setup a botnet when its linux and I was on windows
 * funkemunky - Shit anti-cheats built off one another.
 * DaddyDombo - Buys code, renames it, and claims it as his own.
