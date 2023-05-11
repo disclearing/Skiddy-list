@@ -13,3 +13,4 @@ All the known big skids in the com
 * Asuka - Stole like $14,000 worth of code from someone and claimed it as his own code.
 * ItsNature - Skidded Verus & AntiGamingChair to make "Fallback" LOL
 * Sedge - Skidded Topu's HydrogenAPI and claimed it was FrozenOrb's and then tried to sell it.
+* EliteAres - Major skid claims because god made code we are all skids no you just sit and watch my github for uploads
