@@ -18,5 +18,5 @@ All the known big skids in the com
 * SIPHON11 - Major skid, never wrote a single line of code in his life and sells an $130 anticheat that can't even detect 3.01 
 * EliteAres - Major skid claims because god made code we are all skids no you just sit and watch my github for uploads - also skidded frost
 * Cyanade - Major skid, skidded agc and never wrote a line of code without being babysitted like this shit (https://git.sigmagaming.net/Brandon/EdgeAC)
-* rkid/rbuh - Major skid, all he does is copy pasta from mr GrowlyX![image](https://github.com/disclearing/Skiddy-list/assets/61942923/bd89205b-c0cf-4d91-85ed-cf97590d0558)
+* rkid/rbuh - Major skid, all he does is copy pasta from mr GrowlyX
 
