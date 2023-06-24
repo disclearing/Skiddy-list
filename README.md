@@ -21,3 +21,4 @@ All the known big skids in the com
 * rkid/rbuh - Major skid, all he does is copy pasta from mr GrowlyX
 * JoaoDev - Major 11 year old skid, tried to compile a broken plugin and doesn't know how to use maven.
 * Coccocoa's Helper - Major skid, can't even understand a line of code.
+* Antonio/9xaann - Major skidooo man skkided frost of all things spit on man and his girlfriends wrist as well the deep slits on them are sexy 
