@@ -22,3 +22,4 @@ All the known big skids in the com
 * JoaoDev - Major 11 year old skid, tried to compile a broken plugin and doesn't know how to use maven.
 * Coccocoa's Helper - Major skid, can't even understand a line of code.
 * Antonio/9xaann - Major skidooo man skkided frost of all things spit on man and his girlfriends wrist as well the deep slits on them are sexy 
+* Ekittn - Blud tried skidding HCRival's website, then blocked out the word "skid" on his discord server, what a clown.
